@@ -1,5 +1,4 @@
-# OlympiFi
-# Proof-of-Skill Social Trading Platform
+# OlympiFi - Proof-of-Skill Social Trading Platform
 
 Version: 0.1  
 Date: 2026-09-03  
